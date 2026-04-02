@@ -1,6 +1,4 @@
 export default function HRBPLanding() {
-  ...
-}
 import { useState, useEffect, useRef } from "react";
 
 /* ─────────────────────────────────────────────
@@ -2029,4 +2027,6 @@ export default function HRBPLanding() {
       </footer>
     </>
   );
+}
+
 }
