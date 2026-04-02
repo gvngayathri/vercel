@@ -1,6 +1,6 @@
 
 import { useState, useEffect, useRef } from "react";
-export default function HRBPLanding() {
+
 /* ─────────────────────────────────────────────
    DUAL-CHROME SVG ICONS  (gold only, two tones)
 ───────────────────────────────────────────── */
@@ -2029,4 +2029,4 @@ export default function HRBPLanding() {
   );
 }
 
-}
+
