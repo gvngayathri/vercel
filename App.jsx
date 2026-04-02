@@ -1,3 +1,6 @@
+export default function HRBPLanding() {
+  ...
+}
 import { useState, useEffect, useRef } from "react";
 
 /* ─────────────────────────────────────────────
